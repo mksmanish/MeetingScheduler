@@ -9,6 +9,7 @@ Next & Prev buttons should skip non working days, so if weekends are off and it'
 On tapping on the date label open up the date selection picker to picker data for the specific date.
 <br />
 * Used the below JSON array of object for getting data for particular day.
+* provided configration settings for both the potrait and landscape mode.
 <br />
 
 ```
@@ -38,10 +39,13 @@ Sample JSON
 <a href="https://github.com/mksmanish/MeetingScheduler/blob/main/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-07-31%20at%2022.59.30.png"><img src="https://github.com/mksmanish/MeetingScheduler/blob/main/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-07-31%20at%2022.59.30.png" width="150" height="375"/></a>
 <br>
 <tr>
-<a href="https://github.com/mksmanish/MeetingScheduler/blob/main/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-07-31%20at%2022.59.51.png"><img src="https://github.com/mksmanish/MeetingScheduler/blob/main/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-07-31%20at%2022.59.51.png" width="375" height="150"/></a>
 <br>
 <a href="https://github.com/mksmanish/MeetingScheduler/blob/main/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-08-01%20at%2009.27.37.png"><img src="https://github.com/mksmanish/MeetingScheduler/blob/main/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-08-01%20at%2009.27.37.png" width="150" height="375"/></a>
 <br>
+<br>
+ <a href="https://github.com/mksmanish/MeetingScheduler/blob/main/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-07-31%20at%2022.59.51.png"><img src="https://github.com/mksmanish/MeetingScheduler/blob/main/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-07-31%20at%2022.59.51.png" width="375" height="150"/></a>
+ <br>
+  
 
 
 
