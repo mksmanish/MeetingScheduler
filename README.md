@@ -42,9 +42,8 @@ Sample JSON
 <br>
 <a href="https://github.com/mksmanish/MeetingScheduler/blob/main/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-08-01%20at%2009.27.37.png"><img src="https://github.com/mksmanish/MeetingScheduler/blob/main/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-08-01%20at%2009.27.37.png" width="150" height="375"/></a>
 <br>
-<br>
  <a href="https://github.com/mksmanish/MeetingScheduler/blob/main/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-07-31%20at%2022.59.51.png"><img src="https://github.com/mksmanish/MeetingScheduler/blob/main/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-07-31%20at%2022.59.51.png" width="375" height="150"/></a>
- <br>
+<br>
   
 
 
