@@ -5,7 +5,7 @@ When no date is selected or on first launch, fetch the schedule for today’s da
 NEXT Button: Tapping over this button will fetch the scheduled meetings (request from API) for next date
 PREV Button: Tapping over this button will fetch the scheduled meeting for prev date (request from API)
 Next & Prev buttons should skip non working days, so if weekends are off and it's a friday then clicking next should query for the next working day i.e monday.
-
+```
 Sample JSON
 [
   {
@@ -27,6 +27,7 @@ Sample JSON
     participants: ["Sushant Sehgal"]
   }
 ]
+```
 
 
 
