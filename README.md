@@ -12,18 +12,18 @@ Sample JSON
     start_time: 11:00,
     end_time: 12:00,
     description: "development team of XYZ project: brainstorming session",
-    participants: ["Akhil Gupta", "Sumit Arora", "Sakshi", "Sushant Sehgal"]
+    participants: ["Ankit Gupta", "Manish kumar", "Shubham", "Sushant Sehgal"]
   },
   {
     start_time: 11:30,
     end_time: 12:00,
     description: "development team of XYZ project: brainstorming session",
-    participants: ["Sahil Arora", "Neha"]
+    participants: ["Sahil Arora", "Ankita"]
   },
   {
     start_time: 9:00,
     end_time: 10:30,
-    description: "development team of XYZ project: brainstorming session",
+    description: "development team of XYZ project: discussion session",
     participants: ["Sushant Sehgal"]
   }
 ]
